@@ -59,3 +59,6 @@ BI система №1
 https://yadi.sk/d/Qdg5I54u3PAicf
 
 BI система №2
+https://yadi.sk/d/DfbMI-oT3PAjtG
+
+BI система №2
