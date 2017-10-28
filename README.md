@@ -59,8 +59,7 @@ https://app.powerbi.com/view?r=eyJrIjoiYTcyODEwMjgtM2YzZC00NTk1LWE3YTEtMTFkNTMzY
 
 BI система №2:
 
-https://app.powerbi.com/view?r=eyJrIjoiZWJlNDg1Y2YtMmU1NS00YmFkLWFhN2QtODRjODAwODUzYTNhIiwidCI6ImNlZjk4ZTU4LTgxZjctNDE5NC1iZTgyLWY2M2E3ZGU4YTdhZSIsImMiOjl9
-
+https://app.powerbi.com/view?r=eyJrIjoiN2Y1NGE4ZDgtZmIyYS00NjM2LWJlODQtYjA3Njg5OWIyMGNlIiwidCI6ImNlZjk4ZTU4LTgxZjctNDE5NC1iZTgyLWY2M2E3ZGU4YTdhZSIsImMiOjl9
 
 #Файл PBIX для скачивания
 
