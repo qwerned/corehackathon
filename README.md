@@ -52,7 +52,7 @@ BI система проводит базовую аналитику по зво
 
 BI система №1:
 
-https://app.powerbi.com/view?r=eyJrIjoiNGYyZDEyNjgtMzAzOC00ZTg0LWFmMWItZDYzMWZmYzNkZjU1IiwidCI6ImNmMzUzZDY1LWRiMDUtNDY3YS04OGFlLTkzNzk5Yzg5NTNkMiIsImMiOjl9
+https://app.powerbi.com/view?r=eyJrIjoiYTcyODEwMjgtM2YzZC00NTk1LWE3YTEtMTFkNTMzYmYyNzk4IiwidCI6ImNlZjk4ZTU4LTgxZjctNDE5NC1iZTgyLWY2M2E3ZGU4YTdhZSIsImMiOjl9
 
 BI система №2:
 
