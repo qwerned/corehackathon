@@ -54,7 +54,8 @@ https://app.powerbi.com/view?r=eyJrIjoiZWJlNDg1Y2YtMmU1NS00YmFkLWFhN2QtODRjODAwO
 BI система №2
 https://app.powerbi.com/view?r=eyJrIjoiZWJlNDg1Y2YtMmU1NS00YmFkLWFhN2QtODRjODAwODUzYTNhIiwidCI6ImNlZjk4ZTU4LTgxZjctNDE5NC1iZTgyLWY2M2E3ZGU4YTdhZSIsImMiOjl9
 
-Файл PBIX для скачивания
+#Файл PBIX для скачивания
+
 BI система №1
 https://github.com/qwerned/corehackathon/raw/master/Hackaton_1.pbix
 
