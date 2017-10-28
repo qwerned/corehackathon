@@ -60,5 +60,3 @@ https://github.com/qwerned/corehackathon/raw/master/Hackaton_1.pbix
 
 BI система №2
 https://github.com/qwerned/corehackathon/raw/master/Hackaton_2.pbix
-
-BI система №2
