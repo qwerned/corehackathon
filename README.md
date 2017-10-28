@@ -2,6 +2,9 @@
 
 CoRe Hackathon powerfull BI system
 
+#Ментальная карта
+https://app.mindmup.com/map/_free/2017/10/737d7680bb4111e7962f973e9e04b432
+
 #Функционал
 
 Две BI-системы, которые получают данные из папки, которая указывается в запросе "folder".
